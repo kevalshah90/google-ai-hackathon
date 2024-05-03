@@ -6,4 +6,4 @@ The core idea is to leverage the `gemini-pro-vision` api capabilities for tracki
 
 I plan to develop this into an app that can integrate with google `fit` app which is where we track our movement. I think this would be game-changer for us as currently we have to do much of this manually. 
 
-Video URL: https://youtu.be/CQT5PpnZqTE 
+Video URL: https://youtu.be/CQT5PpnZqTE (Feel free to use `cc`, voice is kinda low)
